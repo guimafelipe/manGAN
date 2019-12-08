@@ -21,6 +21,12 @@ of manga characters. For it, I used some tips and from other works and papers. I
 
 ### Images from data set
 
+![Data Set examples](/data/exemplos_dataset.png)
+
 ### Images generated
 
+![Generated examples](/data/resultados_tan.png)
+
 ### Report (in portuguese)
+
+[Final report](/data/TG.pdf)
